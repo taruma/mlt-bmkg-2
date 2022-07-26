@@ -3,9 +3,12 @@ Repository ini dibuat untuk melengkapi proyek demoday Machine Learning with Tens
 
 ## Informasi Proyek
 
+- Selected Theme: Prediksi Cuaca dengan LSTM dan ANN
 - Group Number: BMKG_2
 - Dataset: BMKG/WEATHER
 - Judul: Prediksi Intensitas Curah Hujan dan Jenis Cuaca Menggunakan Algoritma LSTM dan ANN: Studi Kasus di Denpasar, Bali
+- Github Repo: [Github](https://github.com/taruma/mlt-bmkg-2)
+- Presentasi: [Youtube](https://www.youtube.com/watch?v=9zybcjkVGvw)
 
 ### Background Summary
 
@@ -20,13 +23,15 @@ Bali adalah pulau yang sangat indah. Ibu kota dari provinsi Bali adalah Denpasar
 
 ## Anggota Grup MLT2 BMKG_2
 
-Nama | No. Reg | Kelas
----- | ---- | -----
-Krisna Malik Sukarno | 152236035101-440 | MLT2B	
-M Aldi | 152236035101-642 | MLT2C	
-Risky Yoga Suratman | 152236035100-1035 | MLT2D
-Taruma Sakti Megariansyah | 152236035101-328 | MLT2D	
-~~James Donal~~	| ~~152236035101-665~~ | ~~MLT2B~~
+Nama | No. Reg | Kelas | Tugas | Status
+---- | ---- | ----- | ---- | ----
+Krisna Malik Sukarno | 152236035101-440 | MLT2B	| Dokumentasi & Laporan | Aktif
+M Aldi | 152236035101-642 | MLT2C | Codebase ANN | Aktif
+Risky Yoga Suratman | 152236035100-1035 | MLT2D | Proposal | Aktif
+Taruma Sakti Megariansyah | 152236035101-328 | MLT2D | Codebase LSTM | Aktif
+~~James Donal~~	| ~~152236035101-665~~ | ~~MLT2B~~ | Presentasi & Video* | Tidak Aktif
+
+*: Presentasi dan video dikerjakan oleh seluruh anggota yang aktif.
 
 ---
 
