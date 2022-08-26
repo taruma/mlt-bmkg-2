@@ -1,6 +1,8 @@
 # Repository Project MLT BMKG_2
 Repository ini dibuat untuk melengkapi proyek demoday Machine Learning with Tensorflow.
 
+Catatan: untuk codebase LSTM, silakan dibuka melalui google colab agar bisa melihat visualisasi interaktifnya (menggunakan plotly).
+
 ## Informasi Proyek
 
 - Selected Theme: Prediksi Cuaca dengan LSTM dan ANN
